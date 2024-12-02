@@ -1,3 +1,7 @@
+Эта база данных основана на датасете Startup Investments, опубликованном на популярной платформе для соревнований по исследованию данных Kaggle. 
+https://www.kaggle.com/datasets/justinas/startup-investments/data
+
+
 1.
 Отобразите все записи из таблицы company по компаниям, которые закрылись.
 
